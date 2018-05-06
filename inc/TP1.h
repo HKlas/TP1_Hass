@@ -33,8 +33,8 @@
 
 /* Date: 2015-09-23 */
 
-#ifndef _BLINKY_H_
-#define _BLINKY_H_
+#ifndef _SWITCHES_LEDS_H_
+#define _SWITCHES_LEDS_H_
 
 /*==================[inclusions]=============================================*/
 
